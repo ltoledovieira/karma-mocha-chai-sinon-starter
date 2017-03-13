@@ -25,4 +25,3 @@ Before run we need correct the node_modules/chai-http/index.js as said in the is
 ```sh
 npm test
 ```
-# karma-mocha-chai-sinon-starter
