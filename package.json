@@ -19,7 +19,7 @@
     ]
   },
   "keywords": ["mocha", "karma", "sinon", "chai"],
-  "author": "Pedro Barros",
+  "author": "Laura Toledo",
   "license": "MIT",
   "devDependencies": {
     "babel-plugin-espower": "^2.1.2",
